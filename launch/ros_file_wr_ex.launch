@@ -1,2 +1,8 @@
 <launch>
+	<node
+		pkg=""
+		type=""
+		name=""
+		respawn=""
+	/>
 </launch>
